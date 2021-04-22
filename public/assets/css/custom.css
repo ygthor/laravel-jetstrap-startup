@@ -1,0 +1,13 @@
+.fit {
+    width: 1%;
+    white-space: nowrap;
+}
+
+.big-check {
+    width: 25px;
+    height: 25px;
+}
+
+.hidden {
+    display: none;
+}
